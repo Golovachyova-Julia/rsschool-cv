@@ -20,4 +20,4 @@ return a * b
 ## Education
 **Courses:** Frontendblok
 ## English
-*A1*
+A1
