@@ -10,6 +10,7 @@ I have such qualities as responsibility, communication skills, hard work and I a
 * CSS
 * Figma
 * Git
+* Photoshop
 ## Code Example
 ```
 function multiply(a, b) {
